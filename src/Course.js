@@ -1,6 +1,7 @@
-function Course({title, description}) {
+function Course({image, title, description}) {
   return (
     <div>
+        <img src={image} alt="" />
       <div>{title}</div>
       <div>{description}</div>
     </div>
