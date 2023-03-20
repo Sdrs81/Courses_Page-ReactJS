@@ -7,3 +7,5 @@ The technologies and methods that used in this project are as follows:
 - Passing datas to components
 - CSS Library called 'Bulma'
 - Overriding default CSS properties
+
+Note: After cloning this project, you should run 'npm install' command in terminal to make project ready to work.
